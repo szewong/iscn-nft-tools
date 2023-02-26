@@ -1,19 +1,19 @@
 {
 	"contentMetadata": {
-		"url": "https://ckxpress.com/nft-immigrant-to-native/",
-		"name": "Test Work",
-		"@type": "CreativeWork",
+		"url": "https://craftyourworld-book-nft.s3.amazonaws.com/Craft+Your+World-eBook.pdf",
+		"name": "Craft your world: Create a life worth living through entrepreneurship",
+		"@type": "Book",
 		"version": 1,
 		"@context": "http://schema.org/",
-		"keywords": "",
+		"keywords": ["startup","entrepreneurship"],
 		"usageInfo": "",
-		"description": ""
+		"description": "You don't have to change the world. You just have to change your world.\nThis book provides you with one of the key ways that you can craft your world: entrepreneurship.\nThrough entrepreneurship, you can shape your professional life, your financial future, and who you will interact with on a regular basis. Rather than feeling stuck, you can take charge of your life and craft a world that you can find success in.\nThrough entrepreneurship, you can create an opportunity to do what you love."
 	},
 	"stakeholders": [],
 	"contentFingerprints": [
-		"hash://sha256/52a3dfc1008a0dabc48051664cc04ac9c0295f48925c4958e060d054e49abb3c",
-		"ipfs://QmVsa6WuHLiZtyfwQrFjgxwLvVqMPsvvvusTdCKmTyqkca",
-		"ar://e-bMr7c3O_sm20zb7X5Vu870Q8b-Pc7eIxmjYXgJmsI"
+		"hash://sha256/2042243f7538e1228e11ee7c677ec9adb5be458fdb1d38b8378d14917c58cb15",
+		"ar://ZP_oTrshreoTqm14B4aYnO-8ud4kfLgJuZwXpj1cRFw",
+		"ipfs:://bafybeibyz5fkotycglgjcesjwbryimgkeg3c4hy3veddktmzrnkf4g5ufu"
 	],
 	"recordNotes": ""
 }
