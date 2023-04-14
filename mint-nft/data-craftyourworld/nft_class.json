@@ -1,0 +1,14 @@
+{
+	"name": "Craft Your World",
+	"description": "You don't have to change the world. You just have to change your world.",
+	"symbol": "CYW",
+	"uri": "",
+	"metadata": {
+		"image": "https://craftyourworld-book-nft.s3.amazonaws.com/Craft+Your+World+-+eBook+Cover.jpg",
+		"external_url": "https://craftyourworld-book-nft.s3.amazonaws.com/Craft+Your+World-eBook.pdf",
+		"message": "You don't have to change the world. You just have to change your world.",
+        "nft_meta_collection_id": "forest_book_nft",
+        "nft_meta_collection_name": "Forest BookNFT",
+        "nft_meta_collection_descrption": "BookNFT created by Forest"
+	}
+}
